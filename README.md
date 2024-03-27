@@ -1,2 +1,2 @@
 # Java-Senai
-Códigos feitos para estudo e atividades em Java Script
+Códigos feitos para estudo e atividades em Java 
